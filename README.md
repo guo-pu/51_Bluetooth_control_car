@@ -18,5 +18,5 @@
 
 系统的结构
 ![image](https://github.com/guo-pu/51-/blob/master/%E7%B3%BB%E7%BB%9F%E6%A1%86%E5%9B%BE.png)
-
+<img src="https://github.com/guo-pu/51-/blob/master/%E7%B3%BB%E7%BB%9F%E6%A1%86%E5%9B%BE.png" width="375" />
   
