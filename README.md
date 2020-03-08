@@ -17,7 +17,6 @@
  可以使人们更方便，更简单的控制小车。实现了无线控制小车，摆脱了有线控制的不方便，更智能。
 
 系统的结构
-![Image text]https://github.com/guo-pu/51-/blob/master/%E7%B3%BB%E7%BB%9F%E6%A1%86%E5%9B%BE.png
-
+![image](https://github.com/guo-pu/51-/blob/master/%E7%B3%BB%E7%BB%9F%E6%A1%86%E5%9B%BE.png)
 
   
