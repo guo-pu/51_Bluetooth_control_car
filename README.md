@@ -33,3 +33,5 @@ C语言程序设计 ：清华大学出版社作者：谭浩强
 为了大家方便，我上传了手机APP在网盘：https://pan.baidu.com/s/1UNjlUhUQa25K2RNW8hjwOQ
 提取码：wn7k 
 
+## 运行
+请移植main.c代码到STC89C52RC单片机
