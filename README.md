@@ -35,3 +35,7 @@ C语言程序设计 ：清华大学出版社作者：谭浩强
 
 ## 运行
 请移植main.c代码到STC89C52RC单片机
+
+## 博客交流
+这篇文章有更详细的介绍
+https://guo-pu.blog.csdn.net/article/details/87924196
